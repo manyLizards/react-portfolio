@@ -32,7 +32,7 @@ export default function Header() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src="./pintado#2 (1).png"
           />
         </div>
       </div>
