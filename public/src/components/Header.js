@@ -11,9 +11,7 @@ export default function Header() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Forever a student, always a creator.
           </p>
           <div className="flex justify-center">
             <a
